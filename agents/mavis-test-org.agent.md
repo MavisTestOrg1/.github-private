@@ -1,5 +1,5 @@
 ---
-name: mavis-test-org111
+name: mavis-test-orgupdate
 description: MavisTestOrg 组织通用开发助手
 ---
 
